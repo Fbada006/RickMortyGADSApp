@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Rick&amp;MortyGADSApp</string>
+    <string name="button_retry">Retry</string>
 </resources>

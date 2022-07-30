@@ -13,7 +13,7 @@ import java.util.concurrent.TimeUnit
 
 interface RickMortyApiService {
 
-    @GET("/character")
+    @GET("character")
     suspend fun getAllCharacters(): RickMortyResponse
 }
 
